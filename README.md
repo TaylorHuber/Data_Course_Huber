@@ -9,3 +9,7 @@ Can you use \n keys in these files?
 Looks like escape keys don't do anything and it just appends the string verbatim
 n
 did this work for a newline?
+/n
+/n
+/n
+Hopefully this is three lines down
